@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-My name is Andre, I am currently a student studying Computer Science while working full-time as a facility engineer specialist.
+My name is Andre, I am currently a student studying Computer Science while working full-time as a facility systems engineer specialist.
 
-- 🌱 I’m currently learning how to integrate API's and llm's
 
 <!--
 **Kinjoo/Kinjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
